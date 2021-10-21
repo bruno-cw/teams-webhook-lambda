@@ -1,6 +1,6 @@
 org: brunocw
-app: dailynews
-service: dailynews-bot
+app: teams-webhook-lambda
+service: teams-webhook-lambda
 
 frameworkVersion: '2'
 
